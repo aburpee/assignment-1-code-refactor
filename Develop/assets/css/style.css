@@ -44,7 +44,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* added header tag to be more descriptive of where exactly these elements exist */
+ 
 a {
     color: #ffffff;
     text-decoration: none;
@@ -88,21 +88,9 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.benefit-lead {
+    /* added these from .benefit-lead, .benefit-brand, .benefit-cost to avoid redundancy */
     margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff
 }
 
 .benefit-lead h3 {
