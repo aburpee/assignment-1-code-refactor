@@ -1,11 +1,10 @@
-/* rules applied to the entire document 
-The brings the two sections together and borders the content to edge of page*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* applies background color to the body */
+
 body {
     background-color: #d9dcd6;
 }
@@ -80,7 +79,7 @@ p {
 }
 
 /* added class content-article to remove redundancies */
-.content-article{
+.content article{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -110,7 +109,7 @@ p {
     background-color: #2589bd;
 }
     /* created new class and added these from .benefit-lead, .benefit-brand, .benefit-cost to avoid redundancy */
-.benefits-article{
+.benefits article{
     margin-bottom: 32px;
     color: #ffffff;
 }
