@@ -22,4 +22,4 @@ Given a webpage meets accessibility standards
 	- THEN I find a concise, descriptive title  
 
 
-![Demo image to follow](./Develop/assets/images/demo-image.png)
+![Demo image to follow](./assets/images/demo-image.png)
