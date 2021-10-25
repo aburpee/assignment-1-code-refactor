@@ -1,5 +1,7 @@
 # README.md for refactor assignment
 
+![WEBSITE](https://aburpee.github.io/assignment-1-code-refactor)
+
 ## Description:  
 
 The goal of this assignment is to improve the readability and accessibility of both the html document and the css styles sheet. Search Engine Optimization uses accessibility as a parameter that improves searchability.   
