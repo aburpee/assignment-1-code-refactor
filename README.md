@@ -1,6 +1,6 @@
 # README.md for refactor assignment
 
-![WEBSITE](https://aburpee.github.io/assignment-1-code-refactor)
+[WEBSITE](https://aburpee.github.io/assignment-1-code-refactor)
 
 ## Description:  
 
