@@ -61,16 +61,6 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* the following two styles format the content articles with float classes*/
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 /* assigned width, left margin, and displays the content inline */
 .content {
     width: 75%;
@@ -96,6 +86,16 @@ p {
 .content h2{
     margin-bottom: 20px;
     font-size: 36px;
+}
+/* the following two styles format the content articles with float classes*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 /* moved benefits styles below content */
 .benefits {
